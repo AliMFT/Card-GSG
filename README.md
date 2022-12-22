@@ -5,7 +5,6 @@
 # Versions Used :
 - Html5
 - Css E6
-- Java Script
 # Edit By:
 - Visual Studio Code
 - Chrome Browser
